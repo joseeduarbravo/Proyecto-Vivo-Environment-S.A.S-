@@ -4,10 +4,10 @@ body {
 }
 
 .container {
-    /* width: 1600px; */
+    width: 1600px;
     background-color: #888888;
     height: 2200px;
-    width: 1200px;
+    /* width: 1200px; */
     background-color: #888888;
     height: 2000px;
     -ms-flex-item-align: center;
