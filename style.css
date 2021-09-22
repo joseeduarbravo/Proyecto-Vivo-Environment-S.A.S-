@@ -4,13 +4,13 @@ body {
 }
 
 .container {
-    <<<<<<< HEAD width: 1600px;
+    /* width: 1600px; */
     background-color: #888888;
     height: 2200px;
-    =======width: 1200px;
+    width: 1200px;
     background-color: #888888;
     height: 2000px;
-    >>>>>>>main -ms-flex-item-align: center;
+    -ms-flex-item-align: center;
     align-self: center;
     margin: 0px auto;
     padding: 0 auto;
@@ -43,9 +43,9 @@ body {
 }
 
 .container-imagen {
-    <<<<<<< HEAD background-image: url('./images/Vivo.jpg');
-    =======background-image: url('./images/bg.png');
-    >>>>>>>main height: 240px;
+    background-image: url('./images/Vivo.jpg');
+    /* =======background-image: url('./images/bg.png'); */
+    height: 240px;
     /* margin-bottom: 20px; */
 }
 
@@ -124,11 +124,11 @@ body {
     background-color: rgb(255, 177, 148);
 }
 
-<<<<<<< HEAD .col-5 {
+.col-5 {
     align-items: stretch
 }
 
-=======>>>>>>>main .service-content {
+.service-content {
     padding: 0.5em 0;
 }
 
