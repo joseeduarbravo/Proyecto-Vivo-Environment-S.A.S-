@@ -49,6 +49,16 @@ body {
     /* margin-bottom: 20px; */
 }
 
+.container-imagen-team {
+    /* border-radius: 50%; */
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    width: 40%;
+    height: 30%;
+}
+
 .nav-list {
     padding: 0.25em 0;
     list-style-type: none;
